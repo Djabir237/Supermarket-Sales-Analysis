@@ -2,6 +2,6 @@
 **Tools**: Power BI, DAX, Power Query  
 **Key Insights**:  
 - Novelty shop outperformed the other four markets in total sales by 71.61%.    
-![Dashboard Preview](<img width="1307" height="737" alt="Ekran görüntüsü 2025-07-29 180405" src="https://github.com/user-attachments/assets/adfc8d09-fe5a-4f4f-be28-9839c6276cde" />
+![Dashboard Preview](https://1drv.ms/i/c/8efc31ddd091d6af/EUG7USL7hzVLhwgK3IwfSJgBByMS9Z3ICELJVDQYLDZxIw?e=YGxCIP.
 )  
 [Interactive Report](https://app.powerbi.com/groups/me/reports/e49a8708-80df-4be2-8d80-5eff369c295c/d834a802cec6e0f6eb74?redirectedFromSignup=1&experience=power-bi.)
